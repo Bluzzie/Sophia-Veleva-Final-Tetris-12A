@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mPQ0gOAfSedYZhGkkjPIq3jpLLRNKBtU+JX9pasnLLzrGdacbPPozfzp6YhCV6vUGwLup09/gIGqTbsfOBZe+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bluzz\\Downloads\\Sophia-Veleva-Final-Tetris-12A\\Tetris\\Tetris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bluzz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\bluzz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\bluzz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\bluzz\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
